@@ -30,27 +30,7 @@ npm run dev
 - 🧩 Plug-and-play architecture
 - 🌐 Web-ready demos and templates
 - 📦 Built with scalability and clarity in mind
-
 ---
-
-## 📦 Installation
-```bash
-git clone https://github.com/ricosuave3466-jpg/thePenguino.git
-cd thePenguino
-npm install
-npm start
-
-🛠️ Usage
-
-Here’s a basic example to get started:
-
-import { Penguino } from './core/penguino';
-
-const penguino = new Penguino();
-penguino.draw();
-
-More examples and demos coming soon!
-
 🗂️ Project Structure
 
 thePenguino/
